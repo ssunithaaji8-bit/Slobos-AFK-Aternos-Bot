@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sudhyyyy_.aternos.me
-",
-    "port": 1.21.11,
-    "version": "",
+    "ip": sudhyyyy_.aternos.me,
+    "port":  29082,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
